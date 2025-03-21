@@ -1,3 +1,13 @@
+# This is a fork
+
+This repo is a fork of https://github.com/mittwald/kube-httpcache
+
+It is to release some patchs until they are merged upstream.
+
+To use this fork, use this HELM repository
+
+https://jfcoz.github.io/kube-httpcache/
+
 # Varnish on Kubernetes
 
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/mittwald/kube-httpcache/Test)
